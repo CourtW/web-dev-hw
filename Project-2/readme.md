@@ -1,0 +1,1 @@
+This week I took notes on code that we will continue to use. It was fun writing code and building my webpage. I chose an apple pie recipe by Rachael Ray. I think writing out a recipe requires many of the semantic tags we were using such as: ordered and unordered list, bolding and using superscript. In the future I think my recipe instructable will work well for adding images. 
