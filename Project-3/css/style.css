@@ -29,3 +29,37 @@
   padding: 1.5em;
   color: blue;
 }
+.buy-now-button {
+    min-height: 7em;
+}
+
+.buy-button {
+  float: ;
+  font-family: 'Roboto Slab', serrif;
+  font-size: 1.5em;
+  color: #fef105;
+  font-weight: 600;
+  background-color: #0665c7;
+  border-color: #8f8b8b #383636 #383636 #8f8b8b;
+  border-width: 9px 15px 15px 9px;
+  border-style: solid;
+  border-radius: 25px;
+  margin: 1em;
+  margin-right: 3m;
+  top: 1em;
+  padding: 2em;
+  width: 12em;
+  text-align: center;
+}
+
+.buy-button:hover {
+  color: #989003;
+  font-style: italic;
+}
+
+.buy-button:active {
+    color: #fef105;
+    background-color: #03407f;
+    border-color: #383636 #8f8b8b #8f8b8b #383636;
+    border-width: 15px 9px 9px 15px;
+}
