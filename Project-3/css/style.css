@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico');
+
+.parent-container {
+   width: 500px;
+   height: 500px;
+   background-color: #1CCDCA;
+}
+.parent-container h2 {
+   font-size: x-large;
+   font-weight: bolder;
+   font-style: italic;
+}
+.inner-box {
+   width: 300px;
+   height: 300px;
+   background-color: rgba(255,255,255,.5)
+}
