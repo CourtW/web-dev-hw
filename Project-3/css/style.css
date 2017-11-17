@@ -18,6 +18,14 @@
    background-color: rgba(255,255,255,.5)
 }
 
-body {
+.body {
     background-color: orange;
+}
+.sample {
+  font-family: 'Pacifico', cursive;
+  margin-right: 20%;
+  margin-left: 20%;
+  border: 3px dashed #03407f ;
+  padding: 1.5em;
+  color: blue;
 }
